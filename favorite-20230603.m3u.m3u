@@ -213,3 +213,5 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226952/1.m3u8
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226985/1.m3u8
 #EXTINF:-1 group-title="未分组",咪咕视频_8M1080
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227030/1.m3u8
+#EXTINF:-1 group-title="未分组",B站足赛
+http://101.31.92.219:35455/bilibili/23755176?platform=h5&line=first&quality=10000
