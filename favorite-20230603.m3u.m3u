@@ -1,0 +1,215 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-id="130" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="境外",无线新闻台
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 group-title="未分类",鳳凰直播LIVE
+http://23.95.48.172:35455/youtube/dmDg7NfUoSw
+#EXTINF:-1 tvg-id="31181" tvg-name="NEWS: CNN" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CNN_28201429.png" group-title="06. NEWS ",NEWS: CNN
+http://tkopro.net:25461/jsmith201463@icloud.com/7408198603/31181
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="SPORTS",Sky Sports Main Event
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586759
+#EXTINF:-1 tvg-id="63746" tvg-name="CNN HD" tvg-logo="https://upload.112114.xyz/logo/CNN%20International.png" group-title="starhub+astro+sports",CNN
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&extension=ts&stream=941690
+#EXTINF:-1 group-title="凤凰|频道",BBC world new
+http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 group-title="凤凰|频道",FOX新闻
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="BESTV百事通",五星体育
+https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1 group-title="世界|频道",半岛电视
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
+#EXTINF:-1 tvg-id="1987" tvg-logo="http://live.cooltv.top/logo/shwxty.png" group-title="地方",五星体育
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
+#EXTINF:-1 group-title="未分类",纬来体育台
+http://awei.beimua.com/iptv.php?id=73
+#EXTINF:-1 tvg-name="有线新闻台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png" group-title="港澳台",有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 group-title="未分类",爱尔达体育2台
+http://awei.beimua.com/iptv.php?id=80
+#EXTINF:-1 tvg-id="6143" tvg-logo="http://n.ysyz.top:99/buyaolian/tsxw.png" group-title="港澳台",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="未分类",爱尔达体育1台
+http://awei.beimua.com/iptv.php?id=79
+#EXTINF:-1 group-title="未分类",CCTV13-bestv-vercel
+https://live.20170301.xyz/api/bestv3.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1 group-title="未分类",B站足总杯
+https://cn-hbyc-ct-02-24.bilivideo.com/live-bvc/633696/live_1665228366_49880095_bluray/index.m3u8?expires=1685803012&len=0&oi=454797755&pt=web&qn=10000&trid=1007c3cbb61f72984152a38ad72bf140c8be&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=3d7d81536755a258e97c24d8c4dc47bc&sk=5bf07b9bbe6df2e0a6bc476fe3d9a6428617d9898e213141a6c9950622479373&flvsk=4207df3de646838b084f14f252be3afff667c581244ae1db28bc7b2502fd9756&p2p_type=1&sl=10&free_type=0&mid=0&sid=cn-hbyc-ct-02-24&chash=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=890&site=0666b21b1f24905a34ab473949e055af&order=2
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="英语新闻",AL Jazeera FHD
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,五星体育
+http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS%204K.png" group-title="SPORTS",Now Sports 4K
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/689917
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" group-title="SPORTS",Now Sports 3
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/689912
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1600877510/1087.png" group-title="SPORTS",Sky Sports News
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586757
+#EXTINF:-1 group-title="未分类",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="🍺体育,#genre#",ELEVEN體育2台
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="💞月光宝盒,#genre#",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="💞月光宝盒,#genre#",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="🌈4K8K,#genre#",Astro Super Sport 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1 group-title="🌈4K8K,#genre#",Astro Super Sport 4K-1
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491351944/6593.png" group-title="SPORTS",BEIN SPORTS 2
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/687117
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491351944/6593.png" group-title="SPORTS",BEIN SPORTS 3
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/687118
+#EXTINF:-1 tvg-name="CCTV4K-50P-HLG小果源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-50P-HLG小果源
+http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/4kcgq.png" group-title="4K频道",4K超高清电影
+http://159.75.85.63:5681/sxg.php
+#EXTINF:-1 tvg-name="ELEVEN2 高清" group-title="🍺体育",ELEVEN2 高清
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 tvg-name="ELEVEN1 高清" group-title="🍺体育",ELEVEN1 高清
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 tvg-name="Star Chinese Channel HD" tvg-logo="https://upload.112114.xyz/logo/STARCHINESE.png" group-title="新加坡",卫视中文台
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941624
+#EXTINF:-1 tvg-name="Cinemax HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="新加坡",Cinemax
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941659
+#EXTINF:-1 tvg-id="63809" tvg-name="National Geographic HD" tvg-logo="https://media.info/i/lf/300/1644358707/1077.png" group-title="新加坡",国家地理频道
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941665
+#EXTINF:-1 tvg-id="63808" tvg-name="BBC Earth HD" tvg-logo="https://media.info/i/lf/300/1641979823/6953.png" group-title="新加坡",BBCEarth
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941667
+#EXTINF:-1 tvg-id="63785" tvg-name="Nick Jr HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="新加坡",NickJr.
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941670
+#EXTINF:-1 tvg-id="63795" tvg-name="Cartoon Network" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="新加坡",Cartoon Network
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941673
+#EXTINF:-1 tvg-id="63796" tvg-name="Boomerang HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="新加坡",Boomerang
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941674
+#EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="新加坡",NBA TV
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941562
+#EXTINF:-1 tvg-id="63758" tvg-name="beIN SPORTS HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="新加坡",beIN SPORTS 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941569
+#EXTINF:-1 tvg-id="63756" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG2.png" group-title="新加坡",beIN SPORTS 2
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941568
+#EXTINF:-1 tvg-id="63759" tvg-name="beIN Sports 3" tvg-logo="https://upload.112114.xyz/logo/BEINENG3.png" group-title="新加坡",beIN SPORTS 3
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941567
+#EXTINF:-1 tvg-id="63747" tvg-name="Hub Sports 1 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="新加坡",Hub Sports 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941573
+#EXTINF:-1 tvg-id="63750" tvg-name="Hub Sports 4 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="新加坡",Hub Sports 4
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941571
+#EXTINF:-1 tvg-id="63755" tvg-name="SPOTV2" tvg-logo="https://upload.112114.xyz/logo/SPOTV2.png" group-title="新加坡",SPOTV2
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941563
+#EXTINF:-1 tvg-id="63741" tvg-name="Sky News HD" tvg-logo="https://media.info/i/lf/300/1641766200/1083.png" group-title="新加坡",Sky News
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941684
+#EXTINF:-1 tvg-id="63742" tvg-name="Euronews HD" tvg-logo="https://upload.112114.xyz/logo/EURONEWS.png" group-title="新加坡",EuroNews
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941686
+#EXTINF:-1 tvg-id="63744" tvg-name="Bloomberg Television HD" tvg-logo="https://upload.112114.xyz/logo/Bloomberg%20TV.png" group-title="新加坡",Bloomberg
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941692
+#EXTINF:-1,民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1,台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1,有线财经资讯台
+https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1,有线新闻台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="未分类",中視新聞
+http://23.95.48.172:35455/youtube/TCnaIE_SAtM
+#EXTINF:-1 group-title="未分类",ABC New
+http://23.95.48.172:35455/youtube/w_Ma8oQLmSM
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="astro+sports",TVB 翡翠台
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571187&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/IQIYI.png" group-title="astro+sports",astro 爱奇艺
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571198&extension=ts
+#EXTINF:-1 tvg-logo="https://ctiasia.chinatimes.com/wp-content/uploads/2018/12/logo-460x180-300x117.png" group-title="astro+sports",中天亚洲台
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571212&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="astro+sports",探索频道
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=571210&extension=ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="astro+sports",astro SuperSport UHD
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1016544&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-c.png" group-title="astro+sports",Now Sports 4K
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1032489&extension=ts
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport Ultimate
+http://royx.xyz:80/play/live.php?mac=00:1a:79:b1:05:9e&stream=1038792&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="astro+sports",ELEVEN SPORTS 1 4K
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=905665&extension=ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="astro+sports",astro SuperSport 2
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=918985&extension=ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="astro+sports",astro SuperSport 3
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=918984&extension=ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="astro+sports",astro SuperSport 4
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=918983&extension=ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="astro+sports",astro SuperSport 5
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=918982&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-c.png" group-title="astro+sports",Now Sports Premier League 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1110622&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="astro+sports",Now Sports 2
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1110616&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-c.png" group-title="astro+sports",Now Sports 3
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1110617&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="astro+sports",Now Sports 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1110615&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-c.png" group-title="astro+sports",Now Sports 5
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1110619&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-c.png" group-title="astro+sports",Now Sports 6
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1110620&extension=ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-c.png" group-title="astro+sports",Now Sports 7
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1110621&extension=ts
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="astro+sports",Hub Sports 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1110667&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="astro+sports",FOX SPORTS 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=45571&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="astro+sports",FOX SPORTS 2
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=45570&extension=ts
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="astro+sports",BT Sport 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=30567&extension=ts
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="astro+sports",BT Sport 2
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=30566&extension=ts
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="astro+sports",BT Sport 3
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=30565&extension=ts
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="astro+sports",BT Sport 4
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=30564&extension=ts
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="astro+sports",Sky Sports Premier League
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=30493&extension=ts
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="astro+sports",Sky Sports Main Event
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=30496&extension=ts
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="astro+sports",Sky Sports F1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=30499&extension=ts
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="astro+sports",Hub Premier 1
+http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&stream=1032529&extension=ts
+#EXTINF:-1 tvg-id="7122" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="境外",有线新闻台
+http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png" group-title="4K频道",BeIN Sports 4K
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+#EXTINF:-1 tvg-id="63736" tvg-name="DW (Deutsch)" tvg-logo="https://upload.112114.xyz/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" group-title="starhub+astro+sports",DW English
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&extension=ts&stream=941687
+#EXTINF:-1 group-title="西班牙語",Learn Spanish Live 24/7
+http://23.95.48.172:35455/youtube/9fLGKC9HTZE
+#EXTINF:-1 group-title="西班牙語",FRANCE 24 Español
+http://23.95.48.172:35455/youtube/XDJPzMznAjU
+#EXTINF:-1 group-title="未分类",台視新聞台
+http://23.95.48.172:35455/youtube/xL0ch83RAK8
+#EXTINF:-1 group-title="未分类",三立 iNEWS新聞
+http://23.95.48.172:35455/youtube/CKjSm5ZeehE
+#EXTINF:-1 tvg-id="10375" tvg-name="BBC WORLD NEWS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/02/bbc-world.png" group-title="06. NEWS ",BBC WORLD NEWS
+http://tkopro.net:25461/jsmith201463@icloud.com/7408198603/10375
+#EXTINF:-1 group-title="未分组",咪咕4K_30M2160HEVC
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226938/1.m3u8
+#EXTINF:-1 group-title="未分组",咪咕全民热练_8M1080
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226965/1.m3u8
+#EXTINF:-1 group-title="未分组",咪咕3K_20M1920
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226991/1.m3u8
+#EXTINF:-1 group-title="未分组",咪咕视频_8M1080
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226909/1.m3u8
+#EXTINF:-1 group-title="未分组",咪咕视频_8M1080
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226918/1.m3u8
+#EXTINF:-1 group-title="未分组",咪咕视频_8M1080
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226776/1.m3u8
+#EXTINF:-1 group-title="未分组",咪咕视频_8M1080
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226929/1.m3u8
+#EXTINF:-1 group-title="未分组",咪咕视频_8M1080
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226952/1.m3u8
+#EXTINF:-1 group-title="未分组",咪咕视频_8M1080
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226985/1.m3u8
+#EXTINF:-1 group-title="未分组",咪咕视频_8M1080
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227030/1.m3u8
