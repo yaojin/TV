@@ -3,3 +3,6 @@
 https://ctyunct.inter.71edge.com/tslive/l1/c64_ssports_20230802_i0udaddo_1080p50_chst1_t4/aPW-xvwj2OOpuiGSBnLnb_r42AV57sdbqFHRHVcto3MjM8gfI3stmajZn91Z8Wl0uMjY9-SnJ34jK-CcyWOmr-BCBPGhIF1rHN250UjmhSSGZAIAchW3ItcVu6T4hnANF6V1bhqOZ01CKX_z2iTAYVOICpFoCmZJLhLaqtfwgXL-Q__a9OvnlZbqNsv_QhFmAsCY4kSiFQhiPaBI1yMm9_ungozAlYkeK6ampwoqUhC-nXLhR1Fn6NWcr4Pbs2HYu7_dghQDjcHwaTiSexYO_mIa4RaaxqiwBQk3e5XTLCA/179cf84e0556f3b3660074c6aeb5b6d8b/c64_ssports_20230802_i0udaddo_1080p50_chst1_t4.m3u8?key=0d348728098fd89de3916a1e8b6f47d03&dis_t=1690971257&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1690971257
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYfcsNSt/WW.png", 英超
 http://protv.fun:80/play/live.php?mac=00:1A:79:AE:71:DF&stream=1032489&extension=ts&play_token=KQTa4eVFwX
+#EXTINF:-1, 賽事直播
+https://sc2022.stream-link.org/tv2306.php?id=c00
+
