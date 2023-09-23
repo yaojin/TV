@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYfcsNSt/WW.png" group-title="网球-温网",中文国际
-https://ctyunct.inter.71edge.com/tslive/l1/c64_ssports_20230802_i0udaddo_1080p50_chst1_t4/aPW-xvwj2OOpuiGSBnLnb_r42AV57sdbqFHRHVcto3MjM8gfI3stmajZn91Z8Wl0uMjY9-SnJ34jK-CcyWOmr-BCBPGhIF1rHN250UjmhSSGZAIAchW3ItcVu6T4hnANF6V1bhqOZ01CKX_z2iTAYVOICpFoCmZJLhLaqtfwgXL-Q__a9OvnlZbqNsv_QhFmAsCY4kSiFQhiPaBI1yMm9_ungozAlYkeK6ampwoqUhC-nXLhR1Fn6NWcr4Pbs2HYu7_dghQDjcHwaTiSexYO_mIa4RaaxqiwBQk3e5XTLCA/179cf84e0556f3b3660074c6aeb5b6d8b/c64_ssports_20230802_i0udaddo_1080p50_chst1_t4.m3u8?key=0d348728098fd89de3916a1e8b6f47d03&dis_t=1690971257&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1690971257
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYfcsNSt/WW.png", 英超
-http://protv.fun:80/play/live.php?mac=00:1A:79:AE:71:DF&stream=1032489&extension=ts&play_token=KQTa4eVFwX
-#EXTINF:-1, 賽事直播
-https://sc2022.stream-link.org/tv2306.php?id=c00
-
+#EXTINF:-1 ,曼城vs诺丁汉森林.4K.HDR.50FPS
+http://mgsp-hs.live.miguvideo.com:8088/migu/sports/50zhenyhvivid16/116/20221109/index.m3u8?msisdn=faedd3058ef68da631d4af14f1ddda88&mdspid=&spid=800033&netType=4&sid=7510173189&pid=2028597139&timestamp=20230923221734&Channel_ID=0116_2600010700-99000-201600010010029&ProgramID=863814486&ParentNodeID=-99&assertID=7510173189&client_ip=120.36.217.160&SecurityKey=20230923221734&promotionId=6669f902-ac1f-4b64-8ef8-3cd6d7bafad9&mvid=7510086225&mcid=500020&mpid=120000460057&playurlVersion=WX-A1-6.9.3-RELEASE&userid=247181375&jmhm=faedd3058ef68da631d4af14f1ddda88&videocodec=h265&encrypt=a5cdcd900d0d2bbd00f77222236d0929&dlna=1
+#EXTINF:-1 ,卢顿vs狼队.1080P.HDR.50FPS
+http://flvhspullmgsplive.miguvideo.com:80/mglive/vivid26_901.flv?msisdn=faedd3058ef68da631d4af14f1ddda88&mdspid=&spid=800033&netType=4&sid=7510173183&pid=2028597139&timestamp=20230923221848&Channel_ID=0116_2600010700-99000-201600010010029&ProgramID=863811064&ParentNodeID=-99&assertID=7510173183&client_ip=120.36.217.160&SecurityKey=20230923221848&promotionId=0c00d468-603c-4c49-9eff-1e2aef87e3a1&mvid=7510086222&mcid=500020&mpid=120000460056&playurlVersion=WX-A1-6.9.3-RELEASE&userid=247181375&jmhm=faedd3058ef68da631d4af14f1ddda88&videocodec=h264&encrypt=57701c0abb9429b0af88d3492035375c&dlna=1
+#EXTINF:-1 ,水晶宫vs富勒姆.1080P.HDR.50FPS
+http://flvalipullmgsplive.miguvideo.com:80/mglive/vivid25_901.flv?msisdn=faedd3058ef68da631d4af14f1ddda88&mdspid=&spid=800033&netType=4&sid=7510173175&pid=2028597139&timestamp=20230923221954&Channel_ID=0116_2600010700-99000-201600010010029&ProgramID=863805077&ParentNodeID=-99&assertID=7510173175&client_ip=120.36.217.160&SecurityKey=20230923221954&promotionId=9da08855-7cc6-4d6e-b329-c83580bbcec3&mvid=7510086218&mcid=500020&mpid=120000460054&playurlVersion=WX-A1-6.9.3-RELEASE&userid=247181375&jmhm=faedd3058ef68da631d4af14f1ddda88&videocodec=h264&mgdbId=120000460054&encrypt=5998121231e223b646d00976e980a422&dlna=1
